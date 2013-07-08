@@ -5,7 +5,7 @@
     "express": "2.5.x",
     "cheerio": "0.12.x",
     "commander": "1.2.x",
-    "restler": "2.0.x",
+    "restler": "2.0.x"
   },
   "engines": {
     "node": "0.8.x",
